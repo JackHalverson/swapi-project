@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Handle mouse down event to extend the lightsaber blade
     document.addEventListener("mousedown", () => {
-        blade.style.height = "100px"; // Extend blade
+        blade.style.height = "125px"; // Extend blade
     });
 
     // Handle mouse up event to retract the lightsaber blade
